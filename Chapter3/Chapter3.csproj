@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Charpter3.IPGetter</StartupObject>
+    <StartupObject>HelloWorld</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
